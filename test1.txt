@@ -1,9 +1,2 @@
-i was bron in england
-i love elma
-i have complited html,css,bootstrap,github,java
-<<<<<<< HEAD
-i have started my full strack webdevelopment job in 2021
-I will joined azizul on 8 october .
-=======
-i love nowrin
->>>>>>> b341e17c4da59de71e80c8a4fd2b5d425cf13cdf
+HI I am Fahim
+I am a Front end developer .
