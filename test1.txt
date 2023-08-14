@@ -6,3 +6,4 @@ logo aligment is center
 logo aligment senter2
 bug fixed is solved
 documendetion is solved
+this text is added form main branch 
