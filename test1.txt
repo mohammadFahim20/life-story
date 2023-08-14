@@ -4,3 +4,4 @@ I am study in university of Jahangir Nagor.
 In department of Law.  
 logo aligment is center
 logo aligment senter2
+bug fixed is solved
