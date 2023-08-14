@@ -2,3 +2,4 @@ HI I am Fahim
 I am a Front end developer .
 I am study in university of Jahangir Nagor.
 In department of Law.  
+logo aligment is center
